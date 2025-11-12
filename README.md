@@ -1,2 +1,1 @@
 # min.haze
-# min.haze
